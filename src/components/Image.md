@@ -8,6 +8,10 @@ Default onClick function is
 <Image/>
 ```
 
+**Try clicking me!**
+
 ```js
 <Image alt={"Hello World"} src={"https://spee.ch/princess-bubblegum"} onClick={e => window.alert(e.target.getAttribute("src"))}/>
 ```
+
+Create some react components (as classes OR functions) and then use styleguide to create interactive documentation"
