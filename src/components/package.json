@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "enzyme": "^3.0.0",
+    "jest-enzyme": "^3.8.3"
+  }
+}
